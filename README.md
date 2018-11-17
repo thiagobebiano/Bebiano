@@ -1,2 +1,2 @@
-# https://bebiano.github.io
+# Bebiano
 Bookstore
